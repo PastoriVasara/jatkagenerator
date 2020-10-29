@@ -1,0 +1,29 @@
+#inputField
+{
+    margin: auto;
+    width: 50%;
+    padding: 10px; 
+}
+#outputField
+{
+    margin: auto;
+    width: 50%;
+    padding: 10px; 
+}
+#jTitle
+{    
+    margin: auto;
+    width: 50%;
+    padding: 5%; 
+}
+#outputField
+{
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: x-large;
+}
+#newSubmit
+{
+    margin: 2%;
+    width: 20em;  height: 2em;
+}
